@@ -1,16 +1,18 @@
-## Hi there 👋
+Olá, eu sou a Maria Clara 👋
 
-<!--
-**maria-clara003/maria-clara003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados Júnior | Formada em Análise e Desenvolvimento de Sistemas (UNIFOR) | Fortaleza, CE
 
-Here are some ideas to get you started:
+Foco em análise de dados, indicadores (KPIs) e dashboards. Gosto de transformar dados bagunçados em informação que qualquer pessoa consegue entender.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Ferramentas
+
+SQL (MySQL) · Power BI · DAX · Power Query · Excel Avançado · Python (pandas)
+
+📊 Projetos
+
+- [Dashboard de Análise de Produtividade](https://github.com/maria-clara003/dashboard-analise-produtividade): indicadores de produção, qualidade e disponibilidade operacional no Power BI.
+- [Dashboard de Performance de Vendas](https://github.com/maria-clara003/Dashboard-Performance-vendas-DSA): análise comercial de vendas no Power BI.
+
+📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/clara-aguiar-d4d0s/) · claraa.aguiar2@gmail.com
